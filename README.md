@@ -1,6 +1,6 @@
 # FreeCodeCamp
-The projects in FreeCodeCamp
+The projects that I have completed while going through the FreeCodeCamp.
 
-1. Responsive Web Design Certification Projects:
+## Responsive Web Design Certification Projects:
 
-Tribute Page
+   1. Build a Tribute Page - View On CodePen([CSS](https://codepen.io/Shelly001/pen/wvBrReY), Bootstrap).
